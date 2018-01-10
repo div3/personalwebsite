@@ -1,0 +1,44 @@
+body{
+    background: black;
+}
+
+p.name {
+	font-size: 200%;
+	color :white;
+	float:left;
+	opacity: 1;
+	padding-left: 10%; 
+}
+
+a {
+	color:white;
+	text-decoration: none;
+	target:"_blank";
+}
+
+p.links {
+	font-size: 300%;
+	color : white;
+	float:left;
+	margin-left: 10%;
+	opacity: 1;
+}
+
+div.banner {
+	margin: 0 auto;
+	text-align: center;
+	margin-top:10%;
+	width: 100%;
+	height: 30%;
+	position: absolute;
+	background: #000000;
+	opacity: 0.4;
+}
+
+.dot {
+    height: 20px;
+    width: 2px;
+    background-color: cornflowerblue;
+    border-radius: 50%;
+    display: inline-block;
+}

@@ -1,0 +1,14 @@
+body{
+    background: black;
+}
+
+p.name {
+	font-size: 300%;
+}
+
+div.banner {
+	overflow: auto;
+	float:bottom;
+	width:50%;
+	height:30%;
+}
